@@ -24,3 +24,7 @@ header,
     transform: translate(-50%, -50%);
     object-fit: cover;
 }
+
+.card {
+    background-color: rgba(126, 123, 215, 0.2);
+}
